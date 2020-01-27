@@ -1,10 +1,11 @@
-# Further Reading List | The Age of Algorithms
-## The Project Information Literacy (PIL) “Further Reading List” for the Algorithm Research Study and Report has a (Creative Commons (CC) license of CC BY-NC SA)[https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode].
+Further Reading List | The Age of Algorithms
+================
+The Project Information Literacy (PIL) “Further Reading List” for the Algorithm Research Study and Report has a [Creative Commons (CC) license of CC BY-NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
 About Algorithms
 ================
-(“Americans and privacy: Concerned, confused, and feeling a lack of control over their personal information,”)[https://pewrsr.ch/37Fdad3]
-Brooke Auxier, Lee Rainie, Monica Anderson, Andrew Perrin, Madhu Kumar, and Erica Turner. 
+[“Americans and privacy: Concerned, confused, and feeling a lack of control over their personal information,”](https://pewrsr.ch/37Fdad3)
+Brooke Auxier, Lee Rainie, Monica Anderson, Andrew Perrin, Madhu Kumar, and Erica Turner.
 Pew Research Center. (15 November 2019).
 
 >   “A majority of Americans believe their online and offline activities are
